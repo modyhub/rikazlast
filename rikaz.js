@@ -7,7 +7,7 @@ const relPackagesData = [
     currency: "دولار",
     period: "شهريًا",
     icon: "fas fa-book",
-    backgroundImage: "Altuhfaitkan.jpeg",
+    backgroundImage: "Altuhfaitkan.jpeg.png",
     overlay: "rgba(13, 46, 28, 0.75)",
     textColor: "#ffffff",
     imageText: "إتقان متن التحفة",
@@ -419,3 +419,4 @@ window.addEventListener("scroll", () => {
 
     lastScroll = currentScroll;
 });
+
